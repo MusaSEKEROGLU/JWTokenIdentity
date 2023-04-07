@@ -1,0 +1,15 @@
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.deps.json
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfo.cs
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.dll
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\refint\AuthServer.Core.dll
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\ref\AuthServer.Core.dll
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\drnma\Desktop\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.CopyComplete
